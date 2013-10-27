@@ -7,3 +7,5 @@ nextStep()
 toggleFooter()
 togglePreshow()
 executeAnyCode()
+
+test()
